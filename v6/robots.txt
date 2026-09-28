@@ -1,0 +1,31 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /api/
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+Host: https://crearsl24h.es
+Sitemap: https://crearsl24h.es/sitemap.xml
