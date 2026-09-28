@@ -1,3 +1,3 @@
-:HL["/crearsl24h/_next/static/chunks/d1ea55c3a5b40795.css","style"]
-:HL["/crearsl24h/_next/static/media/21ca8f3f56c22ca2-s.p.158762cf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"YbLqBXNl66fvnjZqbDbXi","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"pasar-de-autonomo-a-sl","paramType":null,"paramKey":"pasar-de-autonomo-a-sl","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/crearsl24h/_next/static/chunks/0rgvplltn2f2w.css","style"]
+:HL["/crearsl24h/_next/static/media/8800dfc60902df36-s.p.2sla2yow9-9p_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"pasar-de-autonomo-a-sl","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"yUASFQk8iVlBT7G9oJGOV"}
